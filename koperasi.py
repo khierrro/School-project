@@ -69,5 +69,3 @@ while i >= 0 :
         i += 1
     else :
         break
-
-print(halo)
